@@ -1,6 +1,6 @@
 # fraud-detection-ml
-Fraud detection with stacking ensemble, Optuna and SHAP
-# 🔍 Fraud Detection with a Stacking Ensemble and SHAP
+
+# Fraud Detection with a Stacking Ensemble and SHAP
 
 Fraud is rare, which makes it hard to catch. In this project, only about **1 in 90 transactions** is fraudulent, so a model that says "everything is fine" would already be 99% accurate and completely useless. I built this project to tackle that problem properly: pick the right metric, handle the imbalance, and explain what the model is actually doing.
 
